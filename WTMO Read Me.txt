@@ -1,0 +1,15 @@
+Hello everyone!
+
+This is the War Thunder Mod Organizer, an example variant of the Universal Mod Organizer project.
+
+Special thanks to the Reddit python and GTG Discord team. This would not have been possible without your help!
+
+- Note this is an unfinished test version of the mod organizer -
+- Current version needs proof reading and major critics as well
+- as a revised Mod list import export system and revised image 
+- call for main logo and possible splash image.
+
+Thank you for downloading and have fun!
+
+If you have any issues to report, please feel free to make a post on GitHub:
+https://github.com/RuseTigerDev/War-Thunder-Mod-Organizer/issues
